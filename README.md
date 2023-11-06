@@ -18,20 +18,20 @@ Once the code is compiled, you can deploy the contract by clicking on the "Deplo
 
 
 
-Once the contract is deployed, you can interact with it by calling the functions : 
-mint : Required arguements: wallet address, amount of NFTs to mint
-       Mints the given number of NFTs for the given wallet address
+Once the contract is deployed, you can interact with it by calling the functions :  
+mint : Required arguements: wallet address, amount of NFTs to mint  
+&emsp;&emsp;&emsp;  Mints the given number of NFTs for the given wallet address  
 
-burn : Required arguements: wallet address, amount of NFTs to mint
-       burns the given number of NFTs from the given wallet address
+burn : Required arguements: wallet address, amount of NFTs to mint  
+&emsp;&emsp;&emsp;   burns the given number of NFTs from the given wallet address  
 
 
-public variables :
-tokenName   : shows token name
-tokenAbbrv  : shows token abbreviation
-totalSupply : shows the total amount of NFTs
-balances    : required arguement : wallet addres
-              shows the amount of NFTs in given wallet address
+public variables :  
+tokenName   : shows token name  
+tokenAbbrv  : shows token abbreviation  
+totalSupply : shows the total amount of NFTs  
+balances    : required arguement : wallet addres  
+&emsp;&emsp;&emsp;&emsp;&emsp;  shows the amount of NFTs in given wallet address  
 
 
 ## Authors
